@@ -1,0 +1,11 @@
+If a caret(^) is the first charecter immideately inside the open left bracket,this symbolizes a directive to not match any of the charecters in the given charecter set.
+Alternation is also sometimes called union or logical OR.
+The asterisk or star operator(*) will match zero or more occurences of RE immidiately to its left.
+She looks so cute
+This book is very good to read
+in some dresses she looks so pretty
+ammu have an address book
+arun
+arjun
+15.12.21
+23.5.12
